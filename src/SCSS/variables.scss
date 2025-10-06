@@ -1,0 +1,11 @@
+$darkbrown: #3A251C;
+$lightwhite: #EEECE0;
+$lightbrown: #D6BAA3;
+
+$primary: $lightwhite;
+$secondary: $darkbrown;
+$light: $lightwhite;
+
+$body-bg: $primary;
+
+@import "bootstrap/scss/bootstrap";

@@ -1,0 +1,41 @@
+@import "../../SCSS/fonts";
+@import "../../SCSS/variables";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+.container{
+  background-color: #EEECE0;
+  width: 100%;
+  flex-direction: column;
+  padding: 3%;
+  color: #D6BAA3;
+}
+
+.details{
+  padding: 3%;
+  flex-direction: row;
+}
+
+.details-paragraph{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+h1, h2{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: xxx-large;
+}
+
+h1 {
+  margin: 10;
+}
+
+h3{
+  color: #FF0763;
+  font-size: large;
+}

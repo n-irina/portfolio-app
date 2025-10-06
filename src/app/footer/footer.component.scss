@@ -1,0 +1,28 @@
+@import '../../SCSS/fonts';
+
+.footer{
+  background-color:#EEECE0;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 10px 0;
+  width: 100%;
+  }
+
+h5{
+  font-size: 70%;
+}
+.footer-logo{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.card-footer{
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
